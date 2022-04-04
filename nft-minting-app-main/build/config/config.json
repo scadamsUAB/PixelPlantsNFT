@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3bE5Aa1Eccb73214481ee9eD9C74C9873070420a",
+  "SCAN_LINK": "https://songbird-explorer.flare.network/address/0x3bE5Aa1Eccb73214481ee9eD9C74C9873070420a",
+  "NETWORK": {
+    "NAME": "Songbird",
+    "SYMBOL": "SGB",
+    "ID": 19
+  },
+  "NFT_NAME": "Pixel Plants",
+  "SYMBOL": "PXLPLNT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 150000000000000000000,
+  "DISPLAY_COST": 150,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Sparkes",
+  "MARKETPLACE_LINK": "https://sparklesnft.com/collection/0x3be5aa1eccb73214481ee9ed9c74c9873070420a",
+  "SHOW_BACKGROUND": true
+}
